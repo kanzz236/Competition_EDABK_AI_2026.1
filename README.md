@@ -54,3 +54,8 @@ id,label
 1,17
 2,20
 3,14
+```
+---
+
+## Citation
+Pham Minh Duc Ngo, Anh Quan Ngo, EDABK Lab. "MNIST 10–20 Challenge." Kaggle Competition, 2026. EDABK AI. [https:/
